@@ -1,102 +1,102 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2bf477121aeadbb4fcaafce7d3bba15c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e978acfb21adac9b12ffc543d96ffea6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f8c124fb0994075529789c2812001765\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f35dc32142e2f3222e8589e0b20c2ac\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\659bfffe6188f8c1ffb07359c196a3df\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\27fd887da953300899a38873100d3c34\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6a3617b77fe3f9aeef56c3511bf4d86\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\26760cf2d1bb220505a86820fc32942d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a96c92f5f61fc7fd32584b4d62b6a8f5\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e11763cead35c87d21356bcab3af579d\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1369759bd80653e7fa6345961c1e393\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\541ce22a31296a69a75f27d260eef253\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18aa8e97538afa2f95b3cce4fd69412\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/06f9f7e54ddb3de40fac1b6b30dfb785/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/812b1394f269be8b4a47f53e06e967c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/55aec404a98a819b7cb067ffb786d5d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b5d3b1b2c6b17fbfc0d163de099567e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5e8fe17ad3077e8145322db32f4f3a37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/75bb68b60ca7e21733e920ad296f9eb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5f9c42ffeffbfa6c87722a075b069864/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e1b06bca866a0276b4a2c24b9e6e90f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fb9c9a28ace87aae0a6a66ee9ea6c7e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3126e821b68bd809665ec0b363688ab9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c2f2271d089378da05ac2d3d3b0af383/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f124314e920632d031bf855a4e7be918/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9559763f08fb0731eda396bd70dbd024/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:5:5-19:19
 	android:label
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:7:9-45
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:7:9-45
 	android:allowBackup
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:9:9-40
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:9:9-40
 activity#org.example.tictactoe.MainActivity
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:10:9-18:20
+ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:10:9-18:20
 	android:label
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:12:13-45
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:12:13-45
 	android:name
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:11:13-41
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:11:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2bf477121aeadbb4fcaafce7d3bba15c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2bf477121aeadbb4fcaafce7d3bba15c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e978acfb21adac9b12ffc543d96ffea6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e978acfb21adac9b12ffc543d96ffea6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f8c124fb0994075529789c2812001765\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f8c124fb0994075529789c2812001765\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f35dc32142e2f3222e8589e0b20c2ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6f35dc32142e2f3222e8589e0b20c2ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\659bfffe6188f8c1ffb07359c196a3df\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\659bfffe6188f8c1ffb07359c196a3df\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\27fd887da953300899a38873100d3c34\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\27fd887da953300899a38873100d3c34\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6a3617b77fe3f9aeef56c3511bf4d86\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c6a3617b77fe3f9aeef56c3511bf4d86\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\26760cf2d1bb220505a86820fc32942d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\26760cf2d1bb220505a86820fc32942d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a96c92f5f61fc7fd32584b4d62b6a8f5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a96c92f5f61fc7fd32584b4d62b6a8f5\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e11763cead35c87d21356bcab3af579d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e11763cead35c87d21356bcab3af579d\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1369759bd80653e7fa6345961c1e393\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1369759bd80653e7fa6345961c1e393\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\541ce22a31296a69a75f27d260eef253\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\541ce22a31296a69a75f27d260eef253\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18aa8e97538afa2f95b3cce4fd69412\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\makn\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18aa8e97538afa2f95b3cce4fd69412\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/06f9f7e54ddb3de40fac1b6b30dfb785/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/06f9f7e54ddb3de40fac1b6b30dfb785/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/812b1394f269be8b4a47f53e06e967c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/812b1394f269be8b4a47f53e06e967c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/55aec404a98a819b7cb067ffb786d5d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/55aec404a98a819b7cb067ffb786d5d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b5d3b1b2c6b17fbfc0d163de099567e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b5d3b1b2c6b17fbfc0d163de099567e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5e8fe17ad3077e8145322db32f4f3a37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5e8fe17ad3077e8145322db32f4f3a37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/75bb68b60ca7e21733e920ad296f9eb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/75bb68b60ca7e21733e920ad296f9eb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5f9c42ffeffbfa6c87722a075b069864/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5f9c42ffeffbfa6c87722a075b069864/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e1b06bca866a0276b4a2c24b9e6e90f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e1b06bca866a0276b4a2c24b9e6e90f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fb9c9a28ace87aae0a6a66ee9ea6c7e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fb9c9a28ace87aae0a6a66ee9ea6c7e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3126e821b68bd809665ec0b363688ab9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3126e821b68bd809665ec0b363688ab9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c2f2271d089378da05ac2d3d3b0af383/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c2f2271d089378da05ac2d3d3b0af383/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f124314e920632d031bf855a4e7be918/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/f124314e920632d031bf855a4e7be918/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9559763f08fb0731eda396bd70dbd024/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/annedyhr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9559763f08fb0731eda396bd70dbd024/AndroidManifest.xml:20:5-44
+INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\TicTacToeGridView\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/src/main/AndroidManifest.xml

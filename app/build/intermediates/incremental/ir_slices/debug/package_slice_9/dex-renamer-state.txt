@@ -1,0 +1,4 @@
+#Mon Sep 17 17:54:08 CEST 2018
+base.0=/Users/annedyhr/AndroidStudioProjects/TicTacToeGrid/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

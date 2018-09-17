@@ -6,8 +6,22 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:text="@string/hello_world"
-        android:layout_height="wrap_content"/>
+        android:text="@string/hello_to_tictactoe"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/btn_new_game"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/new_game"
+        android:drawableLeft="@drawable/androidbot"
+        android:layout_gravity="right"
+        android:textAllCaps="false"
+        android:onClick="onClickNewGame"/>
 
 
 <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -39,7 +53,7 @@
         android:layout_rowWeight="1"
         android:layout_columnWeight="1"
         android:layout_height="0dp"
-        android:src="@drawable/kryds" />
+        android:src="@drawable/blank" />
         
         <ImageView
         android:id="@+id/field3"
@@ -50,7 +64,7 @@
         android:layout_width="0dp"
         android:layout_rowWeight="1"
         android:layout_height="0dp"
-        android:src="@drawable/bolle" />    
+        android:src="@drawable/blank" />
 
       
         <ImageView
@@ -62,7 +76,7 @@
         android:layout_rowWeight="1"
         android:layout_columnWeight="1"
         android:layout_height="0dp"
-        android:src="@drawable/kryds" />
+        android:src="@drawable/blank" />
 
         <ImageView
             android:layout_column="1"
@@ -84,7 +98,7 @@
             android:layout_columnWeight="1"
             android:layout_height="0dp"
             android:layout_rowWeight="1"
-            android:src="@drawable/bolle" />
+            android:src="@drawable/blank" />
 
        
        <ImageView
@@ -107,7 +121,7 @@
         android:scaleType="fitXY"
         android:layout_rowWeight="1"
         android:layout_height="0dp"
-        android:src="@drawable/bolle" />
+        android:src="@drawable/blank" />
 
            <ImageView
         android:id="@+id/field9"

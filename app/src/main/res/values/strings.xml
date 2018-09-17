@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">TicTacToeGrid</string>
-    <string name="hello_world">Welcome to TicTacToe!</string>
+    <string name="hello_to_tictactoe">Welcome to TicTacToe!</string>
     <string name="action_settings">Settings</string>
+    <string name="new_game">New game</string>
 
 </resources>
